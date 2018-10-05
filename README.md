@@ -2,7 +2,7 @@
 
 This is some dummy-code with dummy-data to produce a frequency chart (strip plot) that looks like this:
 
-![](frequency-dummy.svg)
+![](frequency-dummy.png)
 
 ## What is this good for?
 - As a base template to produce proof of concept visuals in this format (and then export it e.g. via the NYTimes' [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)) to then adapt it to the desired design with help of software like Adobe Illustrator
